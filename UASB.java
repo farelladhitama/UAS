@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class SpeedDetector {
+public class UASB {
     public static void main(String[] args) {
         ArrayList<Integer> speedsInRange = new ArrayList<>();
         ArrayList<Integer> speedsBelowRange = new ArrayList<>();
